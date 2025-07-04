@@ -1,0 +1,3 @@
+/home/lux/VS_Code/ATM_Terminal_Project/build/CMakeFiles/atm.dir
+/home/lux/VS_Code/ATM_Terminal_Project/build/CMakeFiles/edit_cache.dir
+/home/lux/VS_Code/ATM_Terminal_Project/build/CMakeFiles/rebuild_cache.dir

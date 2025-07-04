@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/atm.dir/link.d CMakeFiles/atm.dir/main.c.o -o atm
