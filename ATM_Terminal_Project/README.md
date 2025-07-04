@@ -10,8 +10,7 @@ An ATM Terminal simulation. This interactive program allows users to log in usin
  - Multiple predefined users with individual balances.
  - View current account balance.
  - Deposit funds with input validation.
- - Withdraw money with overdraft protection.
- - Clean and readable C code, great for beginner learning.
+ - Withdraw money with overdraft protection. 
 
 
 ## 🔧 Prerequisites
@@ -24,19 +23,27 @@ An ATM Terminal simulation. This interactive program allows users to log in usin
 
 ## 🚀 Running
 
- 1. Clone or download this repository:
+   1. Clone or download this repository:
  
-    git https://github.com/Zzorro-Kid/ATM_Terminal_Project.git
+     git clone https://github.com/Zzorro-Kid/ATM_Terminal_Project.git
 
- 2. Navigate to the project directory:
+   2. Navigate to the project directory:
 
-    cd ATM_Terminal_Project
+     cd ATM_Terminal_Project
     
- 3. Navigate to the project **build** directory:
+   3. Navigate to the project **build** directory:
 
-    cd build
+     cd build
     
- 4. Launch the project:
+   4. Launch the project:
 
-    ./atm
+     ./atm
 
+
+## 🧪 Demo version
+
+  ![image](https://github.com/user-attachments/assets/398dafea-5c84-4bcc-9850-c46559eb2004)
+
+- You can find test PIN-codes in **codes.txt** file ;)
+
+   
